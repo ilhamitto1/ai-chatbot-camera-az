@@ -17,5 +17,9 @@ It automates customer support using LLM integration and workflow orchestration.
 ## Status
 Production deployment with real users.
 
+## Notes
+The workflow was originally built and tested in n8n trial environment.
+A workflow export file is not currently included because the original trial workspace is no longer accessible.
+
 ## Author
 Ilham Dosdiyev
